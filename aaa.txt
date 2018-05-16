@@ -1,2 +1,10 @@
 失去的总比得到的多
 阴天何时会放晴
+
+SHA256:3sCrRQHWIX5+6+NRMJzdX9CwSJBgmBBsU4zyGZ5KP30 lmzhang@homeinns.com
+
+
+
+/c/Users/wrkstnmgr/.ssh/id_rsa.pub
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCsZnnBH5kFBt2W+f7VWRCtSlG2rFfz3pAz9LZCXVN7/7OpOMAqprRTcYY07K/6zhMn2d7C1AQ0lKJ3ZxF0XUtjawG5ATRdQMddRbVNvqmo1vkK2oX09XtTMyi0uUPOnZLfIqi++Q62nsigxUQOKk+bsPsUewYPq3efaVMQ5HTnz0AMOS9X8UiyT5PQdxO7r3Z0vBnFy8oLKXGEv1YHqe31LVFrO8YyJxau29zNLUIJRHiPuzlDP/N0s6lUsfQgzvRcJXyKSjaxCNisvRuxZ+Eahhb6YpE+T/zGtO5UXfaTQUflHRCjxrO9LyDiicDpbAuHWg3ImoyErbQ8qUwEQTuH lmzhang@homeinns.com

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zlm.WebApi", "Zlm.WebApi\Zlm.WebApi.csproj", "{89C66014-9D2A-4C7B-9EB8-11B6962F6F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zlm.Domain", "Zlm.Domain\Zlm.Domain.csproj", "{EE3B323C-D831-4E8C-85F4-D317B847F34F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zlm.Nhibernate", "Zlm.Nhibernate\Zlm.Nhibernate.csproj", "{71209050-4C4D-4CE2-BDB6-9DB16CA6E1D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zlm.Service", "Zlm.Service\Zlm.Service.csproj", "{39EE281F-5AA7-4E1F-B0D1-91E5B5FEE1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C66014-9D2A-4C7B-9EB8-11B6962F6F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C66014-9D2A-4C7B-9EB8-11B6962F6F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C66014-9D2A-4C7B-9EB8-11B6962F6F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C66014-9D2A-4C7B-9EB8-11B6962F6F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3B323C-D831-4E8C-85F4-D317B847F34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3B323C-D831-4E8C-85F4-D317B847F34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3B323C-D831-4E8C-85F4-D317B847F34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3B323C-D831-4E8C-85F4-D317B847F34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71209050-4C4D-4CE2-BDB6-9DB16CA6E1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71209050-4C4D-4CE2-BDB6-9DB16CA6E1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71209050-4C4D-4CE2-BDB6-9DB16CA6E1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71209050-4C4D-4CE2-BDB6-9DB16CA6E1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39EE281F-5AA7-4E1F-B0D1-91E5B5FEE1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EE281F-5AA7-4E1F-B0D1-91E5B5FEE1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EE281F-5AA7-4E1F-B0D1-91E5B5FEE1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EE281F-5AA7-4E1F-B0D1-91E5B5FEE1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

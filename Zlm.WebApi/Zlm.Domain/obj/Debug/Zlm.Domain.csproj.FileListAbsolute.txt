@@ -1,0 +1,11 @@
+D:\Demo\Zlm.WebApi\Zlm.Domain\bin\Debug\Zlm.Domain.dll
+D:\Demo\Zlm.WebApi\Zlm.Domain\bin\Debug\Zlm.Domain.pdb
+D:\Demo\Zlm.WebApi\Zlm.Domain\bin\Debug\Iesi.Collections.dll
+D:\Demo\Zlm.WebApi\Zlm.Domain\bin\Debug\NHibernate.dll
+D:\Demo\Zlm.WebApi\Zlm.Domain\bin\Debug\Zlm.Nhibernate.dll
+D:\Demo\Zlm.WebApi\Zlm.Domain\bin\Debug\Zlm.Nhibernate.pdb
+D:\Demo\Zlm.WebApi\Zlm.Domain\bin\Debug\Iesi.Collections.xml
+D:\Demo\Zlm.WebApi\Zlm.Domain\bin\Debug\NHibernate.xml
+D:\Demo\Zlm.WebApi\Zlm.Domain\obj\Debug\Zlm.Domain.csprojResolveAssemblyReference.cache
+D:\Demo\Zlm.WebApi\Zlm.Domain\obj\Debug\Zlm.Domain.dll
+D:\Demo\Zlm.WebApi\Zlm.Domain\obj\Debug\Zlm.Domain.pdb

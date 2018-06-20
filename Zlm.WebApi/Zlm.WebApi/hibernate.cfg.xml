@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-configuration  xmlns="urn:nhibernate-configuration-2.2" >
+  <session-factory name="NHibernateTest">
+    <property name="connection.provider">NHibernate.Connection.DriverConnectionProvider</property>
+    <property name="connection.driver_class">NHibernate.Driver.SqlClientDriver</property>
+    <property name="connection.connection_string">
+      <!--数据库的用户名密码-->
+      Server=.;uid=sa;pwd=satest;database=TestDB;app=lm;
+    </property>
+    
+    <!--数据库的方言-->
+    <property name="dialect">NHibernate.Dialect.MsSql2012Dialect</property>
+    
+    <!--数据库操作的方式-->
+    <!--<property name="hbm2ddl.auto">update</property>
+    <property name="query.substitutions">true 1, false 0, yes 'Y', no 'N'</property>-->
+    <property name="show_sql">true</property>
+    <property name="format_sql">true</property>
+    <property name="command_timeout">180</property>
+    <property name="adonet.batch_size">16</property>
+    <property name="query.substitutions">true 1, false 0, yes 1, no 0</property>
+    <!--找到对应的实体对象-->
+    <mapping assembly="Zlm.Domain"/>
+  </session-factory>
+</hibernate-configuration>
+

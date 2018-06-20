@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping assembly="Zlm.Domain" namespace="Zlm.Domain.Entities" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Product" table="Product" schema="dbo">
+    <id name="Id" type="Int32">
+      <column name="Id" not-null="true" precision="10" scale="0" sql-type="int" />
+      <generator class="identity" />
+    </id>
+    <property name="ProductName" type="String">
+      <column name="ProductName" default="''" not-null="true" length="50" sql-type="nvarchar" />
+    </property>
+    <property name="ProductDescript" type="String">
+      <column name="ProductDescript" default="''" not-null="true" length="100" sql-type="nvarchar" />
+    </property>
+    <property name="AddDate" type="DateTime">
+      <column name="AddDate" default="getdate()" not-null="true" sql-type="datetime" />
+    </property>
+    <property name="IsDelete" type="Int32" >
+      <column name="IsDelete" default="0" not-null="true" precision="10" scale="0" sql-type="int" />
+    </property>
+  </class>
+</hibernate-mapping>
